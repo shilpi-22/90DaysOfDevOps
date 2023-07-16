@@ -1,0 +1,23 @@
+## Introduction - Day 1
+
+What is Devops?
+
+DevOps is a software development methodology that combines development (Dev) and operations (Ops) to streamline and accelerate the delivery of software applications. In DevOps, developers and operations teams work closely together throughout the entire software development lifecycle, from planning and coding to testing, deployment, and monitoring.
+
+What is Automation?
+
+Automation is a key aspect of DevOps, where manual and repetitive tasks are automated to reduce errors, increase speed, and ensure consistency. Continuous integration and delivery (CI/CD) practices are implemented to enable frequent code integrations, automated testing, and rapid deployment to production environments.
+
+What is Scaling?
+
+Scalability means being able to handle the increased demand without compromising the quality or speed of service. Tools like Kubernetes, Docker Swarm and Apache Mesos provide scalability features.
+
+What is Infrastructure?
+
+Infrastructure in DevOps refers to the underlying technology and resources necessary to support software development, deployment, and operation. It includes both physical and virtual components such as servers, networking equipment, storage devices, operating systems, databases, and middleware. Few tools available for implementation of Infrastructure as a code are: Terraform, AWS CloudFormation, Ansible, Chef, etc.
+
+Why is DevOps Important?
+
+DevOps is important because it enables organizations to deliver software faster, with higher quality, and greater efficiency. It promotes collaboration, agility, and innovation, allowing organizations to stay competitive in the rapidly evolving technological landscape.
+
+
